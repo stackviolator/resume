@@ -5,7 +5,7 @@
 == Education
 #chiline()
 
-#degree("The Ohio State University", "Bachelor of Arts in Computer and Information Science", "Expected May 2025")
+#degree("The Pennsylvania State University", "Bachelor of Science in Cybersecurity Analytics and Operations", "May 2024")
 
 == Experience
 #chiline()
