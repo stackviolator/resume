@@ -37,7 +37,7 @@
   box(width: 1fr, align(alignment.right, date))
   "\n"
   title
-  #if location != "" {
+  if location != "" {
     " | " + location
   }
   "\n"
