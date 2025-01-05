@@ -13,6 +13,8 @@
 #entry(
   "NNX Chess Transformer",
   "https://github.com/stackviolator/chess-transformer-nnx",
+  "",
+  "December 2024",
   (
     "Designed and implemented a custom transformer architecture in JAX/NNX to predict the next move in a sequence, leveraging deep learning techniques for sequence modeling.",
     "Built the project from scratch, including hardware setup, data pipeline development, and model training, demonstrating end-to-end project ownership and execution.",
@@ -22,6 +24,8 @@
 #entry(
   "Mythic C2 Orchestration",
   "https://github.com/stackviolator/purple-team",
+  "",
+  "September 2024",
   (
     "Developed a harness integration to execute Atomic Red Team TTPs via Mythic C2 infrastructure, streamlining automation and enhancing efficiency in Purple Team engagements.",
     "Designed and implemented support for multiple process execution methods, including inline execution and fork-and-run, ensuring flexibility and adaptability across various use cases.",
