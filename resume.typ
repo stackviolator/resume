@@ -75,7 +75,6 @@
   "March-August 2023",
   (
     "Assisted a PhD student in conducting ablation studies to evaluate the effectiveness of various image purification strategies against adversarial attacks, enhancing understanding of model vulnerabilities.",
-    "Participated in weekly reading groups on adversarial machine learning, reviewing and discussing state-of-the-art research papers to stay informed about emerging trends and techniques.",
   ),
 )
 
