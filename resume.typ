@@ -5,7 +5,28 @@
 == Education
 #chiline()
 
-#degree("The Pennsylvania State University", "Bachelor of Science in Cybersecurity Analytics and Operations", "May 2024")
+#degree("The Pennsylvania State University", "Bachelor of Science in Cybersecurity Analytics and Operations", "January 2021 - May 2024")
+
+== Personal Projects
+#chiline()
+
+#entry(
+  "NNX Chess Transformer",
+  "https://github.com/stackviolator/chess-transformer-nnx",
+  (
+    "Designed and implemented a custom transformer architecture in JAX/NNX to predict the next move in a sequence, leveraging deep learning techniques for sequence modeling.",
+    "Built the project from scratch, including hardware setup, data pipeline development, and model training, demonstrating end-to-end project ownership and execution.",
+  ),
+)
+
+#entry(
+  "Mythic C2 Orchestration",
+  "https://github.com/stackviolator/purple-team",
+  (
+    "Developed a harness integration to execute Atomic Red Team TTPs via Mythic C2 infrastructure, streamlining automation and enhancing efficiency in Purple Team engagements.",
+    "Designed and implemented support for multiple process execution methods, including inline execution and fork-and-run, ensuring flexibility and adaptability across various use cases.",
+  ),
+)
 
 == Experience
 #chiline()
@@ -14,10 +35,23 @@
   "IBM X-Force Red",
   "Offensive Security Consultant",
   "Austin, Texas",
-  "July 2024-Present",
+  "July 2024 - Present",
   (
-    "Engineered a stealthy LDAP tool in python, building eight communication layers and authentication mechanisms from the ground up.  Developed a stand alone tool compatible with the well known impacket tool set.",
-    "Worked with senior pentesters during live engagements to identify and exploit vulnerabilities.",
+    "Conduct a range of penetration testing services for clients, including internal and external network assessments, web application testing, and AI application security evaluations.",
+    "Contribute to the development of the internal AI testing practice by creating custom tooling, defining methodologies, assisting with project scoping, and drafting detailed statements of work (SOWs) to align with client needs.",
+  ),
+)
+
+#entry(
+  "Penn State THON",
+  "Lead Systems Adminstrator",
+  "State College, Pennsylvania",
+  "April 2023 - April 2024",
+  (
+    "Led a team of four cloud engineers to develop, deploy, and maintain a suite of five web applications on AWS infrastructure, serving a peak of 100k daily users during high-traffic events.",
+    "Designed and implemented custom logging and metric tracking solutions using AWS Lambda, CloudWatch, and S3, improving system observability and troubleshooting efficiency.",
+    "Enhanced database performance under high-load conditions by implementing automatic RDS scaling and developing custom app-level read replica procedures",
+    "Collaborated across technical and non-technical teams to ensure reliable technical infrastructure, contributing to the successful fundraising of $16.9M for childhood cancer.",
   ),
 )
 
@@ -27,50 +61,20 @@
   "Austin, Texas",
   "May-August 2023",
   (
-    "Worked in team to develop a C2 system using ETW for opportunistic traffic capture on Windows devices, enabling covert communication without direct socket use. Presented a proof of concept to IBM executives.",
-    "Shadowed experienced pentesters on app and internal network penetration tests, gaining valuable insights.",
-    "Completed series of expert-led, training programs focused on network penetration, web application security, cryptography, social engineering, and mobile application security.",
+    "Identified and disclosed critical security vulnerabilities affecting 143k+ IoT fitness devices, resulting in the publication of 6 CVEs.",
+    "Collaborated with senior penetration testers during application and internal network security assessments, deepening expertise in real-world methodologies and tools.",
+    "Completed advanced training programs on network penetration, web application security, cryptography, social engineering, and mobile application security, enhancing technical proficiency.",
   ),
 )
 
 #entry(
-  "The Ohio State University Athletics Department",
-  "IT Student Intern",
-  "Columbus, Ohio",
-  "May 2022 - August 2022",
+  "ALPS Lab at Penn State",
+  "Undergraduate Researcher",
+  "State College, Pennsylvania",
+  "March-August 2023",
   (
-    "Developed processes to track and document vulnerability remediation across four thousand devices.",
-    "Worked with the myriad of tools used to secure and manage large enterprise environments including CrowdStrike, Qualys, and the SolarWinds suite.",
-  ),
-)
-
-== Extracurricular
-#chiline()
-
-#entry(
-  "OSU Cyber Security Club",
-  "Vice President / Member",
-  "Columbus, Ohio",
-  "August 2020 - Present",
-  (
-    "Member of the winning RIT ISTS 2022 team, an attack-defense cybersecurity competition. Competed in ISTS from 2022 to 2024.",
-    "Led meetings, managed AWS infrastructure using Terraform, and coordinated BuckeyeCTF, organizing participation for thousands annually.",
-    "Participated in the Cyber Truck Challenge 2022, working in a six-person team to map and attack heavy truck engine control units, communication networks, and cyber-physical systems. Presented findings and vulnerabilities to OEMs",
-    "Collaborated with the Truck Cybersecurity Research Group to develop attack methodologies for Engine Control Units.",
-    "Designed Python network support for J1939 intelligent fuzzers and J1939 Transport Protocol.",
-  ),
-)
-
-#entry(
-  "Athletics Experience, Target Pistol Shooting",
-  "US National Team",
-  "OSU Varsity Athlete",
-  "August 2016 - 2024",
-  (
-    "2020 Tokyo Olympian, Rapid Fire Pistol",
-    "Dedicated 20+ hours a week to training and practice while maintaining a full academic course load.",
-    "2021, 2022, 2023, 2024 All-American, OSU Scholar Athlete.",
-    "2018 CAT Games Mexico, 2018 South Korea World Championship team, 2019 Pan-American Games Lima.",
+    "Assisted a PhD student in conducting ablation studies to evaluate the effectiveness of various image purification strategies against adversarial attacks, enhancing understanding of model vulnerabilities.",
+    "Participated in weekly reading groups on adversarial machine learning, reviewing and discussing state-of-the-art research papers to stay informed about emerging trends and techniques.",
   ),
 )
 
@@ -78,6 +82,6 @@
 #chiline()
 
 #skills(
-  "Python, C, Golang, Zig, Java, Terraform, Typst",
-  "Ghidra, Impacket, Ansible, AWS, PwnTools, BurpSuite, Wireshark, Git",
+  "Python, C++, Golang, Jax, Pytorch, Java, Solidity, C#",
+  "Ghidra, Impacket, AWS, PwnTools, BurpSuite, Wireshark, Git",
 )
