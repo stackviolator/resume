@@ -52,10 +52,8 @@
   "State College, Pennsylvania",
   "April 2023 - April 2024",
   (
-    "Led a team of four cloud engineers to develop, deploy, and maintain a suite of five web applications on AWS infrastructure, serving a peak of 100k daily users during high-traffic events.",
-    "Designed and implemented custom logging and metric tracking solutions using AWS Lambda, CloudWatch, and S3, improving system observability and troubleshooting efficiency.",
+    "Led a team of four cloud engineers to develop, deploy, and maintain a suite of five web applications on AWS infrastructure, serving a peak of 100k daily users during high-traffic events, assisting to raise $16.9M for childhood cancer.",
     "Enhanced database performance under high-load conditions by implementing automatic RDS scaling and developing custom app-level read replica procedures",
-    "Collaborated across technical and non-technical teams to ensure reliable technical infrastructure, contributing to the successful fundraising of $16.9M for childhood cancer.",
   ),
 )
 
@@ -67,7 +65,6 @@
   (
     "Identified and disclosed critical security vulnerabilities affecting 143k+ IoT fitness devices, resulting in the publication of 6 CVEs.",
     "Collaborated with senior penetration testers during application and internal network security assessments, deepening expertise in real-world methodologies and tools.",
-    "Completed advanced training programs on network penetration, web application security, cryptography, social engineering, and mobile application security, enhancing technical proficiency.",
   ),
 )
 
