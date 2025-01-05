@@ -36,7 +36,10 @@
   text(weight: "bold", company)
   box(width: 1fr, align(alignment.right, date))
   "\n"
-  (title, location).join(" | ")
+  title
+  #if location != "" {
+    " | " + location
+  }
   "\n"
   list(..bullets)
 }
