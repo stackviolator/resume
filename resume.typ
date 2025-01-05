@@ -12,9 +12,9 @@
 
 #entry(
   "IBM X-Force Red",
-  "Pentest Intern",
+  "Offensive Security Consultant",
   "Austin, Texas",
-  "May-August 2024",
+  "July 2024-Present",
   (
     "Engineered a stealthy LDAP tool in python, building eight communication layers and authentication mechanisms from the ground up.  Developed a stand alone tool compatible with the well known impacket tool set.",
     "Worked with senior pentesters during live engagements to identify and exploit vulnerabilities.",
