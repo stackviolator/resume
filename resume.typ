@@ -74,7 +74,7 @@
   "State College, Pennsylvania",
   "March-August 2023",
   (
-    "Assisted a PhD student in conducting ablation studies to evaluate the effectiveness of various image purification strategies against adversarial attacks, enhancing understanding of model vulnerabilities.",
+    "Conducted ablation studies evaluating image purification strategies against adversarial attacks, enhancing understanding of model vulnerabilities.",
   ),
 )
 
