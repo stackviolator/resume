@@ -84,4 +84,5 @@
 #skills(
   "Python, C++, Golang, Jax, Pytorch, Java, Solidity, C#",
   "Ghidra, Impacket, AWS, PwnTools, BurpSuite, Wireshark, Git",
+  "Certified Red Team Operator (CRTO)"
 )

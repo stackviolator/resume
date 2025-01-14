@@ -53,12 +53,20 @@
 /// `skills` Makes a double bullpoint skills block
 ///
 /// langs (str): comma separated list as a string
-///
 /// software (str): comma separated list as a string
+/// certs (str): comma separated list as a string (optional)
 ///
 /// -> str
-#let skills(langs, software) = {
-  par(leading: 0.60em, list(strong("Programming languages: ") + langs, strong("Software: ") + software))
+#let skills(langs, software, certs: "") = {
+  if certs == "" {
+    par(leading: 0.60em, list(strong("Programming languages: ") + langs, strong("Software: ") + software))
+  } else {
+    par(leading: 0.60em, list(
+      strong("Programming languages: ") + langs,
+      strong("Software: ") + software,
+      strong("Certifications: ") + certs
+    ))
+  }
 }
 
 // Creates a degree entry
