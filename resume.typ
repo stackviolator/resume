@@ -17,7 +17,6 @@
   "December 2024",
   (
     "Designed and implemented a custom transformer architecture in JAX/NNX to predict the next move in a sequence, leveraging deep learning techniques for sequence modeling.",
-    "Built the project from scratch, including hardware setup, data pipeline development, and model training, demonstrating end-to-end project ownership and execution.",
   ),
 )
 
