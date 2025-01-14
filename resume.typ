@@ -52,8 +52,8 @@
   "State College, Pennsylvania",
   "April 2023 - April 2024",
   (
-    "Led a team of four cloud engineers to develop, deploy, and maintain a suite of five web applications on AWS infrastructure, serving a peak of 100k daily users during high-traffic events, assisting to raise $16.9M for childhood cancer.",
-    "Enhanced database performance under high-load conditions by implementing automatic RDS scaling and developing custom app-level read replica procedures",
+    "Led a team of four cloud engineers to develop, deploy, and maintain a suite of five web applications on AWS infrastructure, serving a peak of 100k daily users during high-traffic events and played a crucial role in maintaing organizational infrastructure to raise $16.9M for childhood cancer.",
+    "Enhanced database performance under high-load conditions by implementing automatic RDS scaling and developing custom app-level read replica procedures.",
   ),
 )
 
